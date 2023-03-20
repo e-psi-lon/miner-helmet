@@ -5,7 +5,7 @@
         "item": "minecraft:chainmail_helmet"
       },
       {
-        "tag": "miner_helmet:lantern"
+        "tag": "miner_helmet:light_sources"
       }
     ],
     "result": {

@@ -1,0 +1,18 @@
+{
+    "values": [
+        "minecraft:lantern",
+        "minecraft:soul_lantern",
+        "minecraft:campfire",
+        "minecraft:soul_campfire",
+        "minecraft:torch",
+        "minecraft:soul_torch",
+        "minecraft:sea_lantern",
+        "minecraft:glowstone",
+        "minecraft:glow_ink_sac",
+        "minecraft:glow_berries",
+        "minecraft:jack_o_lantern",
+        "minecraft:glow_item_frame",
+        "minecraft:glow_lichen",
+        "minecraft:glowstone_dust"
+    ]
+}
