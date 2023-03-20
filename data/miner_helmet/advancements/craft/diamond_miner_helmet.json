@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "craft": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "miner_helmet:diamond_miner_helmet"
+        }
+      }
+    },
+    "rewards": {
+      "function": "miner_helmet:craft/diamond_miner_helmet",
+      "loot": [
+        "miner_helmet:item/diamond_miner_helmet"
+      ]
+    }
+  }
+  

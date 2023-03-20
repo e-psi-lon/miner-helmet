@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "craft": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "miner_helmet:netherite_miner_helmet"
+        }
+      }
+    },
+    "rewards": {
+      "function": "miner_helmet:craft/netherite_miner_helmet",
+      "loot": [
+        "miner_helmet:item/netherite_miner_helmet"
+      ]
+    }
+  }
+  

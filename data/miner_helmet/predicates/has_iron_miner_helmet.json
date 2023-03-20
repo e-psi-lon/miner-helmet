@@ -1,0 +1,15 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "equipment": {
+            "head": {
+                "items": [
+                    "minecraft:iron_helmet"
+                ],
+                "count": 1,
+                "nbt": "{ctc: {from: \"e_psi_lon:miner_helmet\", traits: {armor: 1b}, id: \"iron_miner_helmet\"}}"
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Miner Helmet",
+        "description": "v0.1.0",
+        "icon": {
+            "item": "minecraft:iron_helmet"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:e_psi_lon",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "craft": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "miner_helmet:iron_miner_helmet"
+      }
+    }
+  },
+  "rewards": {
+    "function": "miner_helmet:craft/iron_miner_helmet",
+    "loot": [
+      "miner_helmet:item/iron_miner_helmet"
+    ]
+  }
+}
