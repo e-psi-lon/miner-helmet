@@ -5,10 +5,10 @@
         "equipment": {
             "head": {
                 "items": [
-                    "minecraft:diamond_helmet"
+                    "minecraft:golden_helmet"
                 ],
                 "count": 1,
-                "nbt": "{ctc: {from: \"e_psi_lon:miner_helmet\", traits: {armor: 1b}, id: \"diamond_miner_helmet\"}}"
+                "nbt": "{ctc: {from: \"e_psi_lon:miner_helmet\", traits: {armor: 1b}, id: \"golden_miner_helmet\"}}"
             }
         }
     }
