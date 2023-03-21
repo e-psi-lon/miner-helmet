@@ -9,7 +9,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{ctc: {from: \"e_psi_lon:miner_helmet\", traits: {armor: 1b}, id: \"golden_miner_helmet\"}}"
+                            "tag": "{ctc: {from: \"e_psi_lon:miner_helmet\", traits: {armor: 1b, \"metal/gold\":1b}, id: \"golden_miner_helmet\"}}"
                         },
                         {
                             "function": "minecraft:set_name",
