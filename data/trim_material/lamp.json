@@ -1,0 +1,9 @@
+{
+    "asset_name": "lamp",
+    "description": {
+      "color": "#258474",
+      "translate": "miner_helmet.how_to_use_2"
+    },
+    "ingredient": "minecraft:barrier",
+    "item_model_index": 0.23
+  }
