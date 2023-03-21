@@ -5,10 +5,14 @@
         "equipment": {
             "head": {
                 "items": [
+                    "minecraft:chainmail_helmet",
+                    "minecraft:iron_helmet",
+                    "minecraft:diamond_helmet",
+                    "minecraft:golden_helmet",
                     "minecraft:netherite_helmet"
                 ],
                 "count": 1,
-                "nbt": "{ctc: {from: \"e_psi_lon:miner_helmet\", traits: {armor: 1b}, id: \"netherite_miner_helmet\"}}"
+                "nbt": "{ctc: {from: \"e_psi_lon:miner_helmet\", traits: {armor: 1b}}}"
             }
         }
     }
