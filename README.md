@@ -1,5 +1,5 @@
 # miner-helmet
-A datapack that add 6 (5 actually) new helmet (based on the default one) that allow you to get dynamic light (like the torch with Optifine)
+A datapack that add 6 (5 actually) new helmet (based on the default one) that allow you to get dynamic light (like the torch with Optifine) without any mod, only the datapack and the resources pack (just for helmet's textures)
 
 
 # Crafting
