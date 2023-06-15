@@ -9,7 +9,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{ctc: {from: \"e_psi_lon:miner_helmet\", traits: {armor: 1b, \"gem/diamond\":1b}, id: \"diamond_miner_helmet\"}}"
+                            "tag": "{ctc: {from: \"e_psi_lon:miner_helmet\", traits: {armor: 1b, \"gem/diamond\":1b}, id: \"diamond_miner_helmet\"}, CustomModelData: 210103}"
                         },
                         {
                             "function": "minecraft:set_name",

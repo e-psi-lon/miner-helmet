@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/chainmail_helmet"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 210100,
+                "model":"miner_helmet:item/chainmail_miner_helmet"
+            }
+        }
+    ]
+  }
