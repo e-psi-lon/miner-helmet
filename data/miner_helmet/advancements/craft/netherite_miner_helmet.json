@@ -1,9 +1,9 @@
 {
     "criteria": {
       "craft": {
-        "trigger": "minecraft:recipe_unlocked",
+        "trigger": "minecraft:recipe_crafted",
         "conditions": {
-          "recipe": "miner_helmet:netherite_miner_helmet"
+          "recipe_id": "miner_helmet:netherite_miner_helmet"
         }
       }
     },
