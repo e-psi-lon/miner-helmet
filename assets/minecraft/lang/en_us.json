@@ -1,4 +1,9 @@
 {
     "miner_helmet.how_to_use":"Put it on your head to",
-    "miner_helmet.how_to_use2":"get a dynamic light source"
+    "miner_helmet.how_to_use2":"get a dynamic light source",
+    "miner_helmet.chainmail_helmet":"Chainmail Miner Helmet",
+    "miner_helmet.iron_helmet":"Iron Miner Helmet",
+    "miner_helmet.gold_helmet":"Gold Miner Helmet",
+    "miner_helmet.diamond_helmet":"Diamond Miner Helmet",
+    "miner_helmet.netherite_helmet":"Netherite Miner Helmet"
 }
