@@ -14,13 +14,23 @@
                         {
                             "function": "minecraft:set_name",
                             "name": {
-                                "translate": "miner_helmetiron_helmet",
+                                "translate": "miner_helmet.iron_helmet",
                                 "italic": false
                             }
                         },
                         {
                             "function": "minecraft:set_lore",
                             "lore": [
+                                {
+                                    "translate": "miner_helmet.how_to_use",
+                                    "italic": false,
+                                    "color": "gray"
+                                },
+                                {
+                                    "translate": "miner_helmet.how_to_use2",
+                                    "italic": false,
+                                    "color": "gray"
+                                },
                                 {
                                     "text": "Miner Helmet",
                                     "color": "blue",
