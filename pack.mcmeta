@@ -1,6 +1,7 @@
 {
     "pack": {
         "pack_format": 13,
-        "description": "A datapack that add somes miner helmet"
+        "description": "A datapack that add somes miner helmet",
+        "author": "e_psi_lon"
     }
 }
