@@ -1,7 +1,6 @@
 # Miner Helmet
 
 ### Langue : 
-// English redirige vers la page de base
 - [English](https://github.com/e-psi-lon/miner-helmet)
 - [Français](#miner-helmet)
 
