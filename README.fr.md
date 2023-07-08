@@ -1,8 +1,9 @@
 # Miner Helmet
 
 ### Langue : 
-- [English](./README.md)
-- [Français](./README.fr.md)
+// English redirige vers la page de base
+- [English](https://github.com/e-psi-lon/miner-helmet)
+- [Français](#miner-helmet)
 
 ## 🤔 Qu'est-ce que c'est ?
 

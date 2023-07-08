@@ -1,7 +1,7 @@
 # Miner Helmet
 
 ### Language:
-- [English](./README.md)
+- [English](#miner-helmet)
 - [Français](./README.fr.md)
 
 ## 🤔 What is this?
